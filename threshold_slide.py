@@ -34,3 +34,5 @@ cv2.destroyAllWindows()
 
 text = pytesseract.image_to_string(zero)    # getting text from image using threshold
 print(text)
+
+# printing value into key-values pairs is still not done
